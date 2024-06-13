@@ -1,4 +1,4 @@
-#Controle de Bugs
+# Controle de Bugs
 
 ## Plano de controle
 Primeiro aba da ferramenta contem as informações de identificação do projeto.
