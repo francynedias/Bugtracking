@@ -1,5 +1,5 @@
 # Bugtracking
- Repositório destinado as práticas do curso de Bugtracking da plataforma Qualiters Club
+ Repositório destinado as práticas do curso de Bugtracking com prática em planejamento de teste da plataforma Qualiters Club
 
 ## Considerações
 Através do curso de bugtracking foi possível entender como gerenciar, abrir, executar e controlar os defeitos em um sistema. 
